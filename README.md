@@ -4,10 +4,7 @@ Welcome to my Java-based turn-based game! This project showcases object-oriented
 
 ---
 
-## 📸 Screenshot![60953f64-c285-4bef-9497-2946718028f5](https://github.com/user-attachments/assets/a9631d04-0b02-42c2-a936-2b3f9c462652)
-
-
-![Game Dialog]
+## 📸 Screenshot! [60953f64-c285-4bef-9497-2946718028f5](https://github.com/user-attachments/assets/a9631d04-0b02-42c2-a936-2b3f9c462652)
 
 ---
 
