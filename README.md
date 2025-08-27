@@ -9,6 +9,8 @@ Welcome to my Java-based turn-based game! This project showcases object-oriented
 
 ---
 ![60953f64-c285-4bef-9497-2946718028f5](https://github.com/user-attachments/assets/c92bead1-53b0-408d-bfb3-1032d415c465)
+![0f8fe8bf-7c8f-4c0b-9b27-d9e08c90bda5](https://github.com/user-attachments/assets/e0fd008c-e925-4182-9ae6-6f74cbc6d589)
+
 
 ## 📦 How to Get Started
 
@@ -20,5 +22,4 @@ You can either:
   git clone https://github.com/yurachi-prog/Turn-Based-Game-with-Abstraction.git
 
  ### 2️⃣ Run the file
- - Run the game.java
  - enjoy the mini game
