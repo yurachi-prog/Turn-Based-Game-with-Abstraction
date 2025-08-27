@@ -10,5 +10,5 @@ You can either:
 - Click the green **Code** button and choose **Download ZIP**, then extract it.
 - Or clone the repo using Git:
   ```bash
-  git clone https://github.com/your-username/Turn-Based-Game-with-Abstraction-and-Polymorphism.git
+  git clone https://github.com/yurachi-prog/Turn-Based-Game-with-Abstraction.git
 
